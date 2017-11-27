@@ -1,2 +1,2 @@
 # test-github-flow
-This is test project
+This is test project.
